@@ -1,0 +1,160 @@
+body{
+    margin: 0;
+}
+
+.cabecera{
+width: 100%;
+margin-left: 30px;
+margin-right: 30px;
+}
+
+header{
+    display: inline-block;
+    width: 100%;
+    background-color: #004f70;
+    margin: 0;
+    padding-top: 20px;
+    position: fixed;
+        top: 0;
+        left: 0;
+    z-index: 100;
+
+}
+
+
+h2{
+font-family: 'Open Sans';
+font-size:16px;
+color:#086A87;
+font-weight: 600;
+padding-top: 15px;
+}
+
+.logo{
+float:left;
+
+}
+
+.menu li{
+    display:inline-block;
+    float: left;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    padding-left: 35px;
+    color: green;
+}
+
+nav{
+    display: inline-block;
+    float: right;
+}
+
+ ul{
+    list-style-type: none;
+ }
+
+
+
+.parrafo{
+font-family: 'open sans';
+font-weight: 600;
+text-align:center;
+height: 80px;
+margin-bottom: 40px;
+color:#086A87;
+margin-top: 40px;
+margin-right: 60px;
+margin-left: 60px;
+}
+
+.foto{
+    margin-top: 100px;
+    height: 400px;
+    width: 100%;
+    background: url(../img/heading.jpg) no-repeat;
+    background-position:center;
+    position: relative;
+    text-align: center;
+}
+.logoslogan{
+width:600px;
+
+
+}
+
+
+h1{
+
+    text-align: center;
+    font-family:'open sans';
+    font-size: 24px;
+    color:white;
+    background-color: rgba(0,0,0, 0.5);
+    padding:10px 25px;
+}
+
+.find{
+    height: 55px;
+    width: 600px;
+    font-size: 20px;
+}
+
+.enviar{
+    padding: 27px 10px;
+    width: 100px;
+    border: 0 none;
+    background-color: orange;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.cajas{
+width: 100%;
+font-family: 'open sans';
+font-weight:700;
+color:white;
+color: black;
+text-align: center;
+}
+
+.price{
+width: 25%;
+height:200px;
+background-color:#F2F2F2;
+float:left;
+
+
+
+}
+
+.wetravel{
+width: 25%;
+height:200px;
+background-color:#D8D8D8;
+float:right;
+
+
+}
+
+.gastronomic{
+width: 25%;
+height:200px;
+background-color:#F2F2F2;
+float:right;
+
+
+}
+
+.book{
+width: 25%;
+height:200px;
+background-color:#D8D8D8;
+float:right;
+
+}
+
+h3{
+    margin-left:15px;
+
+}

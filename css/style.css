@@ -1,3 +1,4 @@
+
 /*  Irene corrige a Oscar: Hace falta un clearfix y un box-sizing - Esto se pone al principio (generalmente)*/
 
 *,
@@ -26,18 +27,25 @@
 
 }
 
+/* Agrupa los margins*/
 
 body{
     margin: 0;
 }
-/* Agrupa los margins*/
+
 .cabecera{
 width: 100%;
 margin-left: 30px;
 margin-right: 30px;
 }
 
+
 /* header la verdad es que no tienes ninguno*/
+.logoslogan{
+    display: inline-block;
+    width: 100%;
+
+}
 .logoslogan{
     display: inline-block;
     width: 100%;
